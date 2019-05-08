@@ -3,7 +3,7 @@ def turn_count(board)
   turn < 9
   turn += 1
   input = ("X", "o")
-  input.each do
+  turn.each do
 
   end
 
